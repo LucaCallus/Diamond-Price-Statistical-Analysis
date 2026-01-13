@@ -1,14 +1,13 @@
-This project based on the "diamonds" dataset with 50,000+ diamonds investigates the relationship between a diamond's physical attributes (the 4Cs: Carat, Cut, Color, Clarity; and Depth and Table) and its market price. The study moves from initial data exploration to rigorous hypothesis testing and concludes with a predictive regression model.
-(Performed as part of my BSc. in Computer Science at the **University of Malta** (Year 1))
+This project is based on the "diamonds" dataset with 50,000+ diamonds and investigates the relationship between a diamond's physical attributes and its market price.
 
 Read the full research paper [here](https://github.com/LucaCallus/Diamond-Price-Statistical-Analysis/blob/e02aa6b3c49f43758c37c0d1ad4e8db19e919a8a/Hypothesis%20Testing%20and%20Statistical%20Modelling%20on%20Diamonds.pdf)
 
-![Histogram of Price](Media/histogram of price.png)
-![Clustered Bar Chart of Price by Carat and Clarity](Media/clustered bar chart price by carat and clarity.png)
-![Scatter Plot of Price by Carat](Media/scatter plot price carat.png)
-![Pie Chart of Cut](Media/pie chart of cut.png)
+![Histogram of Price](Media/histogram%20of%20price.png)
+![Clustered Bar Chart](Media/clustered%20bar%20chart%20price%20by%20carat%20and%20clarity.png)
+![Scatter Plot](Media/scatter%20plot%20price%20carat.png)
+![Pie Chart](Media/pie%20chart%20of%20cut.png)
 
-## Key Research Phases (Key Chapters)
+## Key Research Phases
 
 ### 1. Exploratory Data Analysis (EDA)
 * Visualisation of price distributions and feature correlations
@@ -38,4 +37,4 @@ Read the full research paper [here](https://github.com/LucaCallus/Diamond-Price-
 * **Institution:** University of Malta
 * **Course:** Hypothesis Testing and Statistical Analysis (Unit Code: SOR1232)
 * **Examiner:** Derya Karagoz
-* **Grade/Result:** 98/100
+* **Grade:** 98/100
