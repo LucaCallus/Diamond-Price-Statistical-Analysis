@@ -1,6 +1,7 @@
 This project is based on the "diamonds" dataset with 50,000+ diamonds and investigates the relationship between a diamond's physical attributes and its market price.
 
 Read the full research paper here: [Hypothesis Testing and Statistical Modelling on Diamonds.pdf](https://github.com/LucaCallus/Diamond-Price-Statistical-Analysis/blob/e02aa6b3c49f43758c37c0d1ad4e8db19e919a8a/Hypothesis%20Testing%20and%20Statistical%20Modelling%20on%20Diamonds.pdf)
+Grade: 98/100
 
 ## Key Research Phases
 
@@ -35,7 +36,7 @@ Read the full research paper here: [Hypothesis Testing and Statistical Modelling
 * **Documentation:** Microsoft Word
 
 ## Repository Structure
-* `[Hypothesis Testing and Statistical Modelling on Diamonds.pdf`](https://github.com/LucaCallus/Diamond-Price-Statistical-Analysis/blob/e02aa6b3c49f43758c37c0d1ad4e8db19e919a8a/Hypothesis%20Testing%20and%20Statistical%20Modelling%20on%20Diamonds.pdf)
+* [Hypothesis Testing and Statistical Modelling on Diamonds.pdf](https://github.com/LucaCallus/Diamond-Price-Statistical-Analysis/blob/e02aa6b3c49f43758c37c0d1ad4e8db19e919a8a/Hypothesis%20Testing%20and%20Statistical%20Modelling%20on%20Diamonds.pdf)
 * `Scripts/`: Raw code used for data processing and model generation.
 * `Data/`: The diamonds dataset used for the study.
 
